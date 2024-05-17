@@ -1,0 +1,1779 @@
+[
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33590804,
+
+    "vchLETTERNO": "1791",
+
+    "intletterno": 1791,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28491300542024",
+
+    "vchsendby": "17334",
+
+    "intenclosuretype": 0,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": null,
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Regarding transfer of RTI application dtd. 27.04.2024 of Sri Priyabrata Panda.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1791",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33590819,
+
+    "vchLETTERNO": "1792",
+
+    "intletterno": 1792,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28525300862022",
+
+    "vchsendby": "961",
+
+    "intenclosuretype": 0,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": null,
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Major achievements, Awards, and Recognition received during the month of April-2024 for appraisal in the All Secretaries meeting scheduled to be held on 7th May2024.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1792",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33592551,
+
+    "vchLETTERNO": "1793",
+
+    "intletterno": 1793,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28231600042018",
+
+    "vchsendby": "16726",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1793_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1793_2.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Status of the projects identified for completion during 2023-24 under Zero\r\nBased Investment Review - Position up to 31.12.2023.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1793",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33592903,
+
+    "vchLETTERNO": "1794",
+
+    "intletterno": 1794,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28231600042018",
+
+    "vchsendby": "16726",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1794_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1794_2.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "List of the Projects costing Rs.1.00 Crore above and Rs.10.00 Crore above\r\neach identified for completion during 2024-25 under Zero Based Investment\r\nReview.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1794",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33592925,
+
+    "vchLETTERNO": "1795",
+
+    "intletterno": 1795,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28541300042024",
+
+    "vchsendby": "17334",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1795_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Information sought on the guidelines and modality for transfer of roads from other\r\nDepartment to the Books of Rural Development Department.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1795",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SP",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33592948,
+
+    "vchLETTERNO": "1796",
+
+    "intletterno": 1796,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28235301642024",
+
+    "vchsendby": "16843",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1796_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1796_2.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Projection of requirements to the 16th Finance Commission for Grants-in Aid for Sector\r\nSpecific needs.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1796",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33593636,
+
+    "vchLETTERNO": "1797",
+
+    "intletterno": 1797,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28360100792017",
+
+    "vchsendby": "13641",
+
+    "intenclosuretype": 0,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": null,
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Placement of funds to clear the damage and interest incurred due to belated\r\nremittance of EPF dues.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1797",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33594329,
+
+    "vchLETTERNO": "1798",
+
+    "intletterno": 1798,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28315300062021",
+
+    "vchsendby": "13641",
+
+    "intenclosuretype": 0,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": null,
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Sanction order- Rs. 10342/- payment of Landline and internet dues in respect of officers of RD Deptt.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1798",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33596449,
+
+    "vchLETTERNO": "1799",
+
+    "intletterno": 1799,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28315300132019",
+
+    "vchsendby": "17334",
+
+    "intenclosuretype": 0,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": null,
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Renewal of Lokseva Bhavan Admission cards.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1799",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33596461,
+
+    "vchLETTERNO": "1800",
+
+    "intletterno": 1800,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28360100192024",
+
+    "vchsendby": "19226",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1800_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1800_2.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1800_3.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "WP(C) No.9593 OF 2024 filed by Bijaya Kumar Acharya-Vrs-State of Odisha and\r\nothers..",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1800",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33597470,
+
+    "vchLETTERNO": "1801",
+
+    "intletterno": 1801,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28360101022015",
+
+    "vchsendby": "13641",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1801_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Vigilance allegation against Sri Chandramauli Pattnaik, Ex-EE, RW Division, Puri\r\n(retired as EIC) in connection to BBSR File No. 32/07.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1801",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33599230,
+
+    "vchLETTERNO": "1802",
+
+    "intletterno": 1802,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28311600452011",
+
+    "vchsendby": "17334",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1802_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1802_2.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Submission of fake School Leaving Certificate and Date of Birth by Smt. Basanta\r\nManjari Das, Peon, RD Department.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1802",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33599251,
+
+    "vchLETTERNO": "1803",
+
+    "intletterno": 1803,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28315300102024",
+
+    "vchsendby": "19226",
+
+    "intenclosuretype": 1,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": [
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1803_1.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      },
+
+      {
+
+        "intletterid": 0,
+
+        "intletterno": 0,
+
+        "vchattachfile": "1803_2.pdf",
+
+        "vchofficename": null,
+
+        "chlorder": null,
+
+        "intdono": 0
+
+      }
+
+    ],
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Information about hospitalisation of Sri Gopal Krishna Panda, dependent father-inlaw\r\nof Smt. Sushree Sangita Panigrahi, Section Officer, R.D. Department.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1803",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  },
+
+  {
+
+    "action": null,
+
+    "inT_LEVELDETAILID": 0,
+
+    "intletterid": 33599269,
+
+    "vchLETTERNO": "1804",
+
+    "intletterno": 1804,
+
+    "vchlettermo": null,
+
+    "vchrecivedate": "06-May-2024",
+
+    "vchfileno": "28315300172021",
+
+    "vchsendby": "17334",
+
+    "intenclosuretype": 0,
+
+    "vcH_DISTRCTID": null,
+
+    "vcH_OFFICETYPE": null,
+
+    "vcH_OFFICEID": null,
+
+    "listMainLetter": null,
+
+    "listENCLOUSERM": null,
+
+    "listENCLOUSERS": null,
+
+    "vchenclosurename": null,
+
+    "intUserid": 0,
+
+    "vchPdfSize": null,
+
+    "intYear": 2024,
+
+    "vcH_SECTIONID": null,
+
+    "vcH_FROMDATE": null,
+
+    "vcH_FROMTODATE": null,
+
+    "vchsubject": "Forwarding of Pension Papers of Sri Prabhata Chandra Prusty, ex-Joint Secretary\r\nto Govt. (Retired), Rural Development Department.",
+
+    "chrpdfstatus": "Y",
+
+    "chrdespatchstatus": "Y",
+
+    "chrdoletter": null,
+
+    "intdono": null,
+
+    "intpdfno": "1804",
+
+    "listMode": [
+
+      {
+
+        "modeName": "EM",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "SMS",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      },
+
+      {
+
+        "modeName": "OE",
+
+        "modeId": null,
+
+        "listAddressees": null
+
+      }
+
+    ],
+
+    "tagofficetypE_ID": null,
+
+    "forPublic": null,
+
+    "priority": null,
+
+    "despatchStatus": "0",
+
+    "chrEnclosurestatus": null,
+
+    "chrEnclosureDetails": null,
+
+    "dtmDespatchOn": null
+
+  }
+
+]

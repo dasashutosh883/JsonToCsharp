@@ -1,0 +1,70 @@
+[
+  {
+    "property1": "value1",
+    "property2": 123,
+    "nestedArray1": [
+      {
+        "nestedProperty1": "nestedValue1",
+        "nestedProperty2": true,
+        "nestedArray2": [
+          {
+            "nestedProperty3": 45.67,
+            "nestedProperty4": "nestedValue4"
+          },
+          {
+            "nestedProperty3": 89.12,
+            "nestedProperty4": false
+          }
+        ]
+      },
+      {
+        "nestedProperty1": "nestedValue5",
+        "nestedProperty2": 987,
+        "nestedArray2": [
+          {
+            "nestedProperty3": true,
+            "nestedProperty4": "nestedValue8"
+          },
+          {
+            "nestedProperty3": 123.45,
+            "nestedProperty4": "nestedValue10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "property1": "value2",
+    "property2": false,
+    "nestedArray1": [
+      {
+        "nestedProperty1": 456,
+        "nestedProperty2": "nestedValue12",
+        "nestedArray2": [
+          {
+            "nestedProperty3": "nestedValue13",
+            "nestedProperty4": 789
+          },
+          {
+            "nestedProperty3": false,
+            "nestedProperty4": 234.56
+          }
+        ]
+      },
+      {
+        "nestedProperty1": "nestedValue15",
+        "nestedProperty2": true,
+        "nestedArray2": [
+          {
+            "nestedProperty3": 321,
+            "nestedProperty4": "nestedValue17"
+          },
+          {
+            "nestedProperty3": 54.32,
+            "nestedProperty4": true
+          }
+        ]
+      }
+    ]
+  }
+]
