@@ -1,0 +1,291 @@
+[
+  {
+    "status ": "200 ",
+    "result ": [
+      {
+        "configurationId ": 20,
+        "itemId ": 9,
+        "sectionId ": 0,
+        "formDetails ": [
+          {
+            "ctrlSlNo ": "1 ",
+            "ctrlTypeId ": 2,
+            "ctrlMandatory ": true,
+            "ctrlforViePage ": false,
+            "ctrlforSearch ": false,
+            "ctrlformeta ": true,
+            "metaTemplateFieldId ": "1 ",
+            "ctrlId ": "ctrl_10042023115855 ",
+            "ctrlName ": "ctrl_10042023115855 ",
+            "ctrlPlaceholder ": "Enter Name ",
+            "ctrlLabel ": "Name ",
+            "ctrlLabelinOdia ": " ",
+            "ctrlhelptext ": "Name ",
+            "ctrlClass ": " ",
+            "ctrlHeadingType ": "0 ",
+            "ctrlOtherButtonClass ": "0 ",
+            "ctrlbtnType ": "0 ",
+            "ctrlAttributeType ": "text ",
+            "ctrlMinLength ": 3,
+            "ctrlMaxLength ": 100,
+            "ctrlFileMaxLength ": " ",
+            "ctrlFileSizeType ": "0 ",
+            "ctrlForApproval ": false,
+            "ctrlFileType ": [],
+            "validationDetails ": "Alphabet ",
+            "gridClass ": "2 ",
+            "blockSpecialChars ": false,
+            "ctrlOthervalidation ": " ",
+            "ctrlTableName ": " ",
+            "radioAddmoreviewtype ": "0 ",
+            "tablecolDetails ": [
+              {
+                "ctrlTblColName ": "b_name ",
+                "ctrlTblColType ": "VARCHAR ",
+                "ctrlTblColLength ": "200 ",
+                "ctrlTblColDeafult ": " ",
+                "ctrlTblColConstraints ": " ",
+                "ctrlTblColParentTbl ": " ",
+                "ctrlTblColParentTblClmName ": " ",
+                "ctrlTblColprecision ": " "
+              }
+            ],
+            "languageDetails ": [
+              {
+                "Hn ": " ",
+                "Fr ": " "
+              }
+            ],
+            "dependctrlDetails ": [
+              {
+                "ctrlChkDepend ": false,
+                "ctrlSelDependParent ": "0 ",
+                "ctrlSelDependValue ": [
+                  "0 "
+                ]
+              }
+            ],
+            "cascadingCtrlDetails ": [
+              {
+                "ctrlCCbindDatatype ": " ",
+                "ctrlCCbinddepentfld ": "0 ",
+                "ctrlCCbinddecldClm ": " ",
+                "ctrlCCbinddepentOther ": "no ",
+                "ctrlCCDTableName ": " ",
+                "ctrlCCDTextColumnName ": " ",
+                "ctrlCCDValueColumnName ": " ",
+                "ctrlCCDAlias ": " ",
+                "ctrlCCDConditions ": " ",
+                "ctrlCCLabelData ": " ",
+                "ctrlStaticOptions ": []
+              }
+            ],
+            "calculationDetails ": [
+              {
+                "ctrlChkCalculation ": false,
+                "ctrlCalcOptions ": []
+              }
+            ],
+            "apiCtrlDetails ": [
+              {
+                "APIChar ": " ",
+                "ctrlCCDFunctionName ": " ",
+                "ctrlCCDEventName ": " "
+              }
+            ],
+            "addmoreDetails ": [],
+            "addmorerowdata ": [],
+            "addmoreMergeColumnDetails ": []
+          },
+          {
+            "ctrlSlNo ": "2 ",
+            "ctrlTypeId ": 2,
+            "ctrlMandatory ": false,
+            "ctrlforViePage ": false,
+            "ctrlforSearch ": false,
+            "ctrlformeta ": true,
+            "metaTemplateFieldId ": "2 ",
+            "ctrlId ": "ctrl_10042023115901 ",
+            "ctrlName ": "ctrl_10042023115901 ",
+            "ctrlPlaceholder ": "Born At ",
+            "ctrlLabel ": "Born At ",
+            "ctrlLabelinOdia ": " ",
+            "ctrlhelptext ": "Born At ",
+            "ctrlClass ": " ",
+            "ctrlHeadingType ": "0 ",
+            "ctrlOtherButtonClass ": "0 ",
+            "ctrlbtnType ": "0 ",
+            "ctrlAttributeType ": "text ",
+            "ctrlMinLength ": 3,
+            "ctrlMaxLength ": 100,
+            "ctrlFileMaxLength ": " ",
+            "ctrlFileSizeType ": "0 ",
+            "ctrlForApproval ": false,
+            "ctrlFileType ": [],
+            "validationDetails ": "Alphabet ",
+            "gridClass ": "2 ",
+            "blockSpecialChars ": false,
+            "ctrlOthervalidation ": " ",
+            "ctrlTableName ": " ",
+            "radioAddmoreviewtype ": "0 ",
+            "tablecolDetails ": [
+              {
+                "ctrlTblColName ": "b_address ",
+                "ctrlTblColType ": "VARCHAR ",
+                "ctrlTblColLength ": "200 ",
+                "ctrlTblColDeafult ": " ",
+                "ctrlTblColConstraints ": " ",
+                "ctrlTblColParentTbl ": " ",
+                "ctrlTblColParentTblClmName ": " ",
+                "ctrlTblColprecision ": " "
+              }
+            ],
+            "languageDetails ": [
+              {
+                "Hn ": " ",
+                "Fr ": " "
+              }
+            ],
+            "dependctrlDetails ": [
+              {
+                "ctrlChkDepend ": false,
+                "ctrlSelDependParent ": "0 ",
+                "ctrlSelDependValue ": [
+                  "0 "
+                ]
+              }
+            ],
+            "cascadingCtrlDetails ": [
+              {
+                "ctrlCCbindDatatype ": " ",
+                "ctrlCCbinddepentfld ": "0 ",
+                "ctrlCCbinddecldClm ": " ",
+                "ctrlCCbinddepentOther ": "no ",
+                "ctrlCCDTableName ": " ",
+                "ctrlCCDTextColumnName ": " ",
+                "ctrlCCDValueColumnName ": " ",
+                "ctrlCCDAlias ": " ",
+                "ctrlCCDConditions ": " ",
+                "ctrlCCLabelData ": " ",
+                "ctrlStaticOptions ": []
+              }
+            ],
+            "calculationDetails ": [
+              {
+                "ctrlChkCalculation ": false,
+                "ctrlCalcOptions ": []
+              }
+            ],
+            "apiCtrlDetails ": [
+              {
+                "APIChar ": " ",
+                "ctrlCCDFunctionName ": " ",
+                "ctrlCCDEventName ": " "
+              }
+            ],
+            "addmoreDetails ": [],
+            "addmorerowdata ": [],
+            "addmoreMergeColumnDetails ": []
+          },
+          {
+            "ctrlSlNo ": "3 ",
+            "ctrlTypeId ": 2,
+            "ctrlMandatory ": false,
+            "ctrlforViePage ": false,
+            "ctrlforSearch ": false,
+            "ctrlformeta ": true,
+            "metaTemplateFieldId ": "3 ",
+            "ctrlId ": "ctrl_10042023115904 ",
+            "ctrlName ": "ctrl_10042023115904 ",
+            "ctrlPlaceholder ": "Date ",
+            "ctrlLabel ": "Born Date ",
+            "ctrlLabelinOdia ": " ",
+            "ctrlhelptext ": " ",
+            "ctrlClass ": " ",
+            "ctrlHeadingType ": "0 ",
+            "ctrlOtherButtonClass ": "0 ",
+            "ctrlbtnType ": "0 ",
+            "ctrlAttributeType ": "date ",
+            "ctrlMinLength ": " ",
+            "ctrlMaxLength ": " ",
+            "ctrlFileMaxLength ": " ",
+            "ctrlFileSizeType ": "0 ",
+            "ctrlForApproval ": false,
+            "ctrlFileType ": [],
+            "validationDetails ": "Less than current ",
+            "gridClass ": "2 ",
+            "blockSpecialChars ": false,
+            "ctrlOthervalidation ": " ",
+            "ctrlTableName ": " ",
+            "radioAddmoreviewtype ": "0 ",
+            "tablecolDetails ": [
+              {
+                "ctrlTblColName ": "b_date ",
+                "ctrlTblColType ": "VARCHAR ",
+                "ctrlTblColLength ": "200 ",
+                "ctrlTblColDeafult ": " ",
+                "ctrlTblColConstraints ": " ",
+                "ctrlTblColParentTbl ": " ",
+                "ctrlTblColParentTblClmName ": " ",
+                "ctrlTblColprecision ": " "
+              }
+            ],
+            "languageDetails ": [
+              {
+                "Hn ": " ",
+                "Fr ": " "
+              }
+            ],
+            "dependctrlDetails ": [
+              {
+                "ctrlChkDepend ": false,
+                "ctrlSelDependParent ": "0 ",
+                "ctrlSelDependValue ": [
+                  "0 "
+                ]
+              }
+            ],
+            "cascadingCtrlDetails ": [
+              {
+                "ctrlCCbindDatatype ": " ",
+                "ctrlCCbinddepentfld ": "0 ",
+                "ctrlCCbinddecldClm ": " ",
+                "ctrlCCbinddepentOther ": "no ",
+                "ctrlCCDTableName ": " ",
+                "ctrlCCDTextColumnName ": " ",
+                "ctrlCCDValueColumnName ": " ",
+                "ctrlCCDAlias ": " ",
+                "ctrlCCDConditions ": " ",
+                "ctrlCCLabelData ": " ",
+                "ctrlStaticOptions ": []
+              }
+            ],
+            "calculationDetails ": [
+              {
+                "ctrlChkCalculation ": false,
+                "ctrlCalcOptions ": []
+              }
+            ],
+            "apiCtrlDetails ": [
+              {
+                "APIChar ": " ",
+                "ctrlCCDFunctionName ": " ",
+                "ctrlCCDEventName ": " "
+              }
+            ],
+            "addmoreDetails ": [],
+            "addmorerowdata ": [],
+            "addmoreMergeColumnDetails ": []
+          }
+        ],
+        "status ": null,
+        "createdOn ": "22-11-2023 ",
+        "vchProcessName ": "Birth Certificate Format ",
+        "tinFinalSubmitStatus ": 1,
+        "tinGridType ": 2,
+        "sectionName ": " "
+      }
+    ],
+    "workFlowFormDetails ": " "
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonToCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa5872916351964a84bc0288337e30277f4f6efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonToCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonToCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

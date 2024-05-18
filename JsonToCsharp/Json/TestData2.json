@@ -1,0 +1,194 @@
+{
+  "GlobalConfiguration": [
+    {
+      "BaseUrl": "http://host.docker.internal:4001",
+      "RequestIdKey": "OcRequestId",
+      "AdministrationPath": "/administration",
+      "RateLimitOptions": [
+        {
+          "DisableRateLimitHeaders": false,
+          "QuotaExceededMessage": "Customize Tips!",
+          "HttpStatusCode": 999
+        }
+      ]
+    }
+  ],
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/Department",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Department",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Department/SearchDepartment",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Department/SearchDepartment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4003
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Department/CreateDepartment",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Department/CreateDepartment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4003
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Department/UpdateDepartment",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Department/UpdateDepartment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4003
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Department/DeleteDepartment",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Department/DeleteDepartment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4003
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Employee",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Employee",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4004
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Employee/SearchEmployee",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Employee/SearchEmployee",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4004
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Employee/CreateEmployee",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Employee/CreateEmployee",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4004
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Employee/UpdateEmployee",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Employee/UpdateEmployee",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4004
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/Employee/DeleteEmployee",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/Employee/DeleteEmployee",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "host.docker.internal",
+          "Port": 4004
+        }
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+    }
+  ]
+}

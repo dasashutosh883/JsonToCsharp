@@ -17,3 +17,7 @@ D:\projectsPractice\JsonToCsharp\JsonToCsharp\obj\Debug\net8.0\JsonToCsharp.cspr
 D:\projectsPractice\JsonToCsharp\JsonToCsharp\obj\Debug\net8.0\JsonToCsharp.csproj.CopyComplete
 D:\projectsPractice\JsonToCsharp\JsonToCsharp\bin\Debug\net8.0\Json\Data.json
 D:\projectsPractice\JsonToCsharp\JsonToCsharp\bin\Debug\net8.0\Json\TestData.json
+D:\projectsPractice\JsonToCsharp\JsonToCsharp\obj\Debug\net8.0\JsonToCsharp.sourcelink.json
+D:\projectsPractice\JsonToCsharp\JsonToCsharp\bin\Debug\net8.0\Json\TestData2.json
+D:\projectsPractice\JsonToCsharp\JsonToCsharp\bin\Debug\net8.0\Json\TestData3.json
+D:\projectsPractice\JsonToCsharp\JsonToCsharp\bin\Debug\net8.0\Json\ocelot.json
